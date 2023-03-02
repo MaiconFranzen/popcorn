@@ -22,7 +22,7 @@
   }
   
   #main-navbar {
-    background: -webkit-gradient(linear, left top, right top, from(#1a232e), to(#1B2530));
+    background: -webkit-gradient(linear, left top, right top, from(#000), to(#1B2530));
      /* background-color: #121212; */
   }
   
@@ -91,7 +91,7 @@
   
   /* Home */
   #main-container {
-    background: -webkit-gradient(linear, left top, right top, from(#1a232e), to(#1B2530));
+    background: -webkit-gradient(linear, left top, right top, from(#000), to(#1B2530));
     /* background-color: #000; */
     color: #FFF;
     min-height: 65vh;
@@ -441,7 +441,7 @@
   
   /* Footer */
   #footer {
-    background: -webkit-gradient(linear, left top, right top, from(#1a232e), to(#1B2530));
+    background: -webkit-gradient(linear, left top, right top, from(#000), to(#1B2530));
     /* background-color: #000; */
     color: #FFF;
     text-align: center;
